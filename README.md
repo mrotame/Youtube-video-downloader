@@ -5,10 +5,10 @@ Bibliotecas externas necessarias:
 -Pafy
 -Pillow
 -Beautiful Soup
+-requests
 
 Blibliotecas internas utilizadas:
 -tkinter 
--requests
 -sys
 -urllib
 -loggin (opcional)
