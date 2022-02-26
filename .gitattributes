@@ -1,2 +1,1 @@
-*.tcl linguist-detectable=false
-*.python linguist-detectable=true
+*.tcl linguist-language=Python
