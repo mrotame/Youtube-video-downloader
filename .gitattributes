@@ -1,3 +1,2 @@
-* linguist-vendored
 *.tcl linguist-detectable=false
 *.python linguist-detectable=true
