@@ -1,1 +1,5 @@
 *.Tcl linguist-language=Python
+*.tcl linguist-language=Python
+*Tcl linguist-language=Python
+*tcl linguist-language=Python
+
