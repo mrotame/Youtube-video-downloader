@@ -1,6 +1,13 @@
 # Youtube-video-downloader
-Script simples em python para baixar videos do youtube, 
-Este projeto foi desenvolvido como um aprendizado de desenvolvimento de Graphical User Interface em Python
 
-instale as bibliotecas externas através do pip `pip install requirements.txt`
-Após, execute o arquivo `YTVD.py`
+> **Warning**
+>
+> This project is deprecated due to the libs that
+> get the youtube metadatas are not updated anymore.
+> Trying to download any video wil lresult in errors
+
+A Simple python app to download youtube videos, 
+This project was built in order to study Graphical User Interface (GUI) in Python
+
+Install the required libs by running `pip install requirements.txt`
+After, execute the file `YTVD.py`
